@@ -1,4 +1,4 @@
-# Assignment #6 - Python Pulse
+# Assignment #7 - Python Pulse
 
 **TASK**: You have been hired to help manage the data for an up and coming fitness tracker app: Python Pulse. The app allows users to create profiles, track their workouts, set goals, and monitor their progress. The tables in the database are represented by the ER diagram below.
 
